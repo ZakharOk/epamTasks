@@ -1,0 +1,7 @@
+
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8¸‡ÊÛ“/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8ÛÈÛ“/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ8·ü¯Û“/
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8ÙÂÊÛ“/
