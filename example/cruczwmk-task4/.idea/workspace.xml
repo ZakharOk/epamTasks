@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cf1c22f-134f-4372-b2af-6cc0ab1c9426" name="Default Changelist" comment="ver 13">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/rd/java/basic/practice4/part6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/part1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/part3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/part6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/rd/java/basic/practice4/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/rd/java/basic/practice4/Demo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1qn39eNXuYfuAnWZ22KzjdgCH35" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cruczwmk-task5" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\EPAM_projects\cruczwmk-task4\src\main\java\com\epam\rd\java\basic\practice4" />
+      <recent name="F:\EPAM_projects\cruczwmk-task4\src\main" />
+      <recent name="F:\EPAM_projects\cruczwmk-task4\.resources" />
+      <recent name="F:\EPAM_projects\cruczwmk-task4\src\main\java" />
+      <recent name="F:\EPAM_projects\cruczwmk-task4\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.java.basic.practice4.Demo" />
+      <module name="cruczwmk-task4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.java.basic.practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.java.basic.practice4.Part2" />
+      <module name="cruczwmk-task4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.java.basic.practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.java.basic.practice4.Part3" />
+      <module name="cruczwmk-task4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.java.basic.practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.java.basic.practice4.Part4" />
+      <module name="cruczwmk-task4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.java.basic.practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.rd.java.basic.practice4.Part6" />
+      <module name="cruczwmk-task4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.rd.java.basic.practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Part4" />
+        <item itemvalue="Application.Part6" />
+        <item itemvalue="Application.Part3" />
+        <item itemvalue="Application.Part2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf1c22f-134f-4372-b2af-6cc0ab1c9426" name="Default Changelist" comment="" />
+      <created>1617701376480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617701376480</updated>
+      <workItem from="1617701428675" duration="7960000" />
+      <workItem from="1617814808234" duration="28089000" />
+      <workItem from="1617914522351" duration="1037000" />
+      <workItem from="1617984311641" duration="3733000" />
+      <workItem from="1618132386356" duration="209000" />
+      <workItem from="1619511043869" duration="45000" />
+    </task>
+    <task id="LOCAL-00001" summary="ver 1">
+      <created>1617881301043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617881301043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ver 2">
+      <created>1617882656042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617882656042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ver 3">
+      <created>1617883034997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617883034997</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver 4">
+      <created>1617884275218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617884275218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ver 5">
+      <created>1617897706807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617897706808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ver 6">
+      <created>1617898634549</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617898634549</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ver 7">
+      <created>1617899321399</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617899321399</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ver 8">
+      <created>1617899956010</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617899956010</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ver 9">
+      <created>1617901197707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617901197707</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ver 10">
+      <created>1617906553346</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617906553346</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ver 11">
+      <created>1617909108687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617909108688</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ver 12">
+      <created>1617910489826</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617910489826</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ver 13">
+      <created>1617914673653</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617914673653</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ver 1" />
+    <MESSAGE value="ver 2" />
+    <MESSAGE value="ver 3" />
+    <MESSAGE value="ver 4" />
+    <MESSAGE value="ver 5" />
+    <MESSAGE value="ver 6" />
+    <MESSAGE value="ver 7" />
+    <MESSAGE value="ver 8" />
+    <MESSAGE value="ver 9" />
+    <MESSAGE value="ver 10" />
+    <MESSAGE value="ver 11" />
+    <MESSAGE value="ver 12" />
+    <MESSAGE value="ver 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1617883613498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1617883613498" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617989502796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617989502796" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1617865532515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617865532515" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1619511086121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619511086121" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618132596931" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1617996860881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617996860881" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1617996860881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617996860881" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1617996860881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617996860881" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1617996860881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617996860881" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1617911500105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617911500105" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1617911500105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617911500105" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1617911500105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617911500105" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1617911500105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617911500105" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1617990460088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617990460088" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617914678986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617914678986" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617907775543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617907775543" />
+    <state x="690" y="270" key="extract.method.dialog" timestamp="1617815774740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617815774740" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617817458847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617817458847" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/epam/rd/java/basic/practice4/Part4.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
