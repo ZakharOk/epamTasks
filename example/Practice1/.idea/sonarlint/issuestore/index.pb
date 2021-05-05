@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++.gradle/buildOutputCleanup/cache.properties,f\0\f0ce9208a20ebd9d1f763074c5870c3f31ef115a
+K
+.gradle/5.6.4/gc.properties,8\8\889bf09669453649662bd520db72060dd961b6d8
+K
+.gradle/vcs-1/gc.properties,3\f\3fa1ed8f1b4e1b9c233b6023870998c667d79f5c
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part1.java,d\9\d9022ff57098b9bfe2d704f866f34e44c246e3ef
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part2.java,4\e\4e24e6fad304ae6b995047ed14d87ab97a9d6109
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part3.java,e\d\ed0c2aefda0819e39e53877edef29ef299a2a1d7
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part4.java,3\7\37d1a143f1a5f98e35b527430d01cd4391f6978e
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part5.java,5\d\5d7aaeb7f2bb01056e152dcf35bbb84a67e2c813
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part6.java,2\2\22a5b0e57bbe3a6f2f164c26586d1ab569ed862a
+i
+9src/main/java/com/epam/rd/java/basic/practice1/Part7.java,e\0\e06b4a02dbcf6ec5e0071b249272f15b4505a26f
+h
+8src/main/java/com/epam/rd/java/basic/practice1/Demo.java,7\a\7ac3e69890b4ff38d3581cd833c0368904a18483
